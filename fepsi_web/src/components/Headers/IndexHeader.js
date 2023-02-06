@@ -34,7 +34,7 @@ function IndexHeader() {
         ></div>
         <Container>
           <div className="content-center brand">
-            <h1><br></br><br></br>Programming the World,<br></br>Programming with FEPSI</h1>
+            <h3><br></br><br></br>Programming the World,<br></br>Programming with FEPSI</h3>
           </div>
           <h6 className="category category-absolute">
             Designed by{" YDM"}

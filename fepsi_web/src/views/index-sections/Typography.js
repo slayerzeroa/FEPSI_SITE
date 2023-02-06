@@ -16,9 +16,9 @@ function Typography() {
               <div className="history-line">
               <span>2022</span>
                 <h5>
-                  경영대학 학술제 금상 (Option Pricing Method using FFNN)<br></br>
-                  제 8회 DB GAPS 투자대회 금융동아리 부문 5위<br></br>
-                  제 8회 DB GAPS 투자대회 수익률 부문 TOP 20
+                  경영대학 학술제 금상<br></br>(Option Pricing Method using FFNN)<br></br><br></br>
+                  제 8회 DB GAPS 투자대회 <br></br> 금융동아리 부문 5위<br></br>
+                  수익률 부문 TOP 20
                 </h5>
               </div>
               <div className="history-line">
@@ -30,15 +30,15 @@ function Typography() {
               <div className="history-line">
               <span>2018</span>
                 <h5>
-                  경영대학 학술제 대상 (한반도 이슈에 따른 주가예측모델설계)
+                  경영대학 학술제 대상 <br></br>(한반도 이슈에 따른 주가예측모델설계)
                 </h5>
               </div>
               <div className="history-line">
               <span>2017</span>
                 <h5>
-                  제 3회 DB GAPS 투자대회 금융동아리 부문 5위<br></br>
-                  제 3회 DB GAPS 투자대회 수익률 부문 4위<br></br>
-                  경영대학 학술제 은상<br></br>
+                  제 3회 DB GAPS 투자대회<br></br>금융동아리 부문 5위<br></br>
+                  수익률 부문 4위<br></br><br></br>
+                  경영대학 학술제 은상<br></br><br></br>
                   따뜻한 시민금융아이디어 공모전 우수상
                 </h5>
               </div>
@@ -51,7 +51,7 @@ function Typography() {
               <div className="history-line">
               <span>2015</span>
                 <h5>
-                  경영대학 학술제 대상 (내부자거래정보를 이용한 투자전략)
+                  경영대학 학술제 대상 <br></br>(내부자거래정보를 이용한 투자전략)
                 </h5>
               </div>
               <div className="history-line">

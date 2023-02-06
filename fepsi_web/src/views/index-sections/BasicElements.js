@@ -53,8 +53,8 @@ function BasicElements() {
     <>
       <div className="section section-basic" id="basic-elements">
         <Container>
-          <h3 className="title">Programming the World, Making Financial Engineers</h3>
-          <h4>데이터분석을 통해 퀀트 전략을 검증하고, 퀀트 전략을 통해 수익을 창출합니다.</h4>
+          <h3 className="title">Programming the World, Make Financial Engineers</h3>
+          <h5>데이터분석을 통해 퀀트 전략을 검증하고, <br></br>퀀트 전략을 통해 수익을 창출합니다.</h5>
           
           <p className="category">We Cover</p>
           <Row>
@@ -96,10 +96,7 @@ function BasicElements() {
             </Col>
           </Row>
           <p className="category">2023 Projects</p>
-          <img src={project1} style={{maxWidth: "30%"}}>
-          </img>
-
-          <img src={project2} style={{maxWidth: "30%", marginLeft:"10px"}}>
+          <img src={project2} style={{maxWidth: "100%", marginLeft:""}}>
           </img>
         </Container>
 
