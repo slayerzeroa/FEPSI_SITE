@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.820d3f13.css",
-    "main.js": "/static/js/main.e7b82e98.js",
+    "main.js": "/static/js/main.a5a139f2.js",
     "static/media/Tunnel.mp4": "/static/media/Tunnel.81bf6a0b9364edecb5b2.mp4",
     "static/media/header_0.png": "/static/media/header_0.f8d037fcb5ad857a7408.png",
     "static/media/FE_background.png": "/static/media/FE_background.93ce816ea7ace3a37123.png",
@@ -35,14 +35,16 @@
     "static/media/logic_negative.png": "/static/media/logic_negative.89d4b659fa08c91b13f7.png",
     "static/media/mathematics_negative.png": "/static/media/mathematics_negative.083354b4f205a004b17f.png",
     "static/media/coding_negative.png": "/static/media/coding_negative.5b39c5529e5aa6bd35f1.png",
+    "static/media/github.png": "/static/media/github.c42aa4a3ced23749c3af.png",
     "static/media/nucleo-outline.woff": "/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
     "static/media/nucleo-outline.woff2": "/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
     "static/media/KKM.png": "/static/media/KKM.63f11474e9fe914ee83c.png",
+    "static/media/linkedin.png": "/static/media/linkedin.703626263087e3e7c315.png",
     "static/media/tistory.svg": "/static/media/tistory.49abfc3904e8357b52a09ffff898f01c.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.820d3f13.css",
-    "static/js/main.e7b82e98.js"
+    "static/js/main.a5a139f2.js"
   ]
 }
