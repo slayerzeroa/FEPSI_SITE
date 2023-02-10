@@ -14,7 +14,7 @@ https://fepsi.netlify.app/index
 <h1>Project Structure</h1>
 
 ```
-Github(FEPSI_SITE_SOURCE)
+┌─Github(FEPSI_SITE_SOURCE)
 ├─src────────────────────────build -- Github(FEPSI_SITE) -- Netlify Deploy
 │  ├─assets
 │  │  ├─config
