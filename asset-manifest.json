@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.8b8238c0.css",
-    "main.js": "/static/js/main.ac2ced8f.js",
+    "main.js": "/static/js/main.67dc2d95.js",
     "static/media/Tunnel.mp4": "/static/media/Tunnel.81bf6a0b9364edecb5b2.mp4",
-    "static/media/header_0.png": "/static/media/header_0.aba2a9dcc0a03c3cf01d.png",
+    "static/media/header_0.png": "/static/media/header_0.8b3de81425da9ba0bf1b.png",
     "static/media/FE_background.png": "/static/media/FE_background.4dc7af911efbc4a74c04.png",
     "static/media/skyscrapers.jpg": "/static/media/skyscrapers.b3ffecc745736b504bdd.jpg",
     "static/media/projects_background.jpg": "/static/media/projects_background.6783a475dc78a4c3c730.jpg",
@@ -50,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.8b8238c0.css",
-    "static/js/main.ac2ced8f.js"
+    "static/js/main.67dc2d95.js"
   ]
 }
